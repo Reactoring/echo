@@ -145,4 +145,4 @@ Ticket 1 on a module is exploration. Ticket 10 starts with a map, known pitfalls
 
 ---
 
-*Author: Amine Dkhili. [linkedin.com/in/dkhiliamine](https://www.linkedin.com/in/dkhiliamine)*
+*Author: Amine Dkhili.*
